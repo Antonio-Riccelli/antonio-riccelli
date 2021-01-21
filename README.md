@@ -8,6 +8,7 @@
 ### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-4.png" width="100" alt="LinkedIn download icon" /></a>
 <a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="100" alt="Gmail Icon" /></a>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="antonioriccelli"><a class="LI-simple-link" href='https://uk.linkedin.com/in/antonioriccelli?trk=profile-badge'>Antonio Riccelli</a></div>
 
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
