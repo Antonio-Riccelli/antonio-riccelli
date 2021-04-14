@@ -1,4 +1,4 @@
-## ʜɪ! ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ, ᴊᴜɴɪᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width:"30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ, ᴊᴜɴɪᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
 
 ### ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
 | ʜᴛᴍʟ | ᴄꜱꜱ | ᴊꜱ | ᴘʏᴛʜᴏɴ | ᴘᴏꜱᴛɢʀᴇꜱQʟ | ɢɪᴛ |
