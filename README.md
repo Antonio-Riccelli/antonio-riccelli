@@ -1,10 +1,11 @@
-## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ, ᴅᴇᴠᴇʟᴏᴘᴇʀ <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-512.png" width="30px">
+## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-512.png" width="30px">
 
 ---
 
 Guitarist, branched into Analyst, branched into Developer - I committed, kept pushing, eventually I merged! 
 
 I'm currently studying [Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/) with the Italian startup [Start2Impact.it](https://www.start2impact.it/) and its amazing community. 
+
 
 ---
 
