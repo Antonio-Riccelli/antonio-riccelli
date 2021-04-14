@@ -1,5 +1,6 @@
 ## ʜɪ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ!
 
+Made in <img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">, based in <img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">
 
 Guitarist, branched into Analyst, branched into Developer - I committed, kept pushing, eventually I merged! 
 
@@ -15,7 +16,11 @@ I'm currently studying **[Full Stack Development](https://www.start2impact.it/pe
 ---
 
 #### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
-<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="60px" alt="LinkedIn download icon" height="60px" /></a>
+<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="60px" alt="LinkedIn icon" height="60px" /></a>
+<a href="https://twitter.com/AntonioRiccell1" title="Twitter profile link"><img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" width="60px" alt="Twitter icon" height="60px" /></a>
+<a href="https://www.facebook.com/antonio.riccelli0/" title="facebook profile link"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="60px" alt="facebook icon" height="60px" /></a>
+<a href="https://www.instagram.com/antonio_riccelli/" title="instagram profile link"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="60px" alt="instagram icon" height="60px" /></a>
+<a href="https://soundcloud.com/antonioriccelli" title="Soundcloud profile link"><img src="https://cdn.worldvectorlogo.com/logos/soundcloud.svg" width="60px" alt="soundcloud  icon" height="60px" /></a>
 <a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="60px" height="60px" alt="Gmail Icon" /></a>
 
 ---
