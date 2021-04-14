@@ -1,4 +1,4 @@
-## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ, ᴊᴜɴɪᴏʀ ᴅᴇᴠᴇʟᴏᴘᴇʀ.
+## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ, ᴅᴇᴠᴇʟᴏᴘᴇʀ <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-512.png" width="30px">
 
 ### ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
 | ʜᴛᴍʟ | ᴄꜱꜱ | ᴊꜱ | ᴘʏᴛʜᴏɴ | ᴘᴏꜱᴛɢʀᴇꜱQʟ | ɢɪᴛ |
