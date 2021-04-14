@@ -1,4 +1,4 @@
-## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-512.png" width="30px">
+## ʜɪ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ!
 
 ---
 
@@ -15,9 +15,16 @@ I'm currently studying [Full Stack Development](https://www.start2impact.it/perc
 
 ---
 
+#### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
+<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="60px" alt="LinkedIn download icon" height="60px" /></a>
+<a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="60px" height="60px" alt="Gmail Icon" /></a>
 
-### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
-<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-4.png" width="100" alt="LinkedIn download icon" /></a>
-<a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="100" alt="Gmail Icon" /></a>
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
