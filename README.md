@@ -1,6 +1,5 @@
 ## ʜɪ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ!
 
----
 
 Guitarist, branched into Analyst, branched into Developer - I committed, kept pushing, eventually I merged! 
 
