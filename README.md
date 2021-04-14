@@ -1,9 +1,19 @@
 ## ʜɪ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ, ᴅᴇᴠᴇʟᴏᴘᴇʀ <img src="https://cdn0.iconfinder.com/data/icons/coding-files-icons-rounded/110/Coding-512.png" width="30px">
 
-### ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ
-| ʜᴛᴍʟ | ᴄꜱꜱ | ᴊꜱ | ᴘʏᴛʜᴏɴ | ᴘᴏꜱᴛɢʀᴇꜱQʟ | ɢɪᴛ |
-| :-:  | :-:| :-:| :-:    | :-:       | :-: |
-|<img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png"/> |<img  src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png"/> |<img src="https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png" />| <img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" />| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.net-system.be%2Fwp-content%2Fuploads%2F2015%2F02%2Fpostgresql_logo.png&f=1&nofb=1" />| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgotoclass.ir%2Fmedia%2Fgit-logo.png&f=1&nofb=1" />|
+---
+
+Guitarist, branched into Analyst, branched into Developer - I committed, kept pushing, eventually I merged! 
+
+I'm currently studying [Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/) with the Italian startup [Start2Impact.it](https://www.start2impact.it/) and its amazing community. 
+
+---
+
+#### 🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="html logo" width="60px" height="60px"><img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="css logo" height="60px" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/qlik-sense.svg" alt="qliksense logo" height="60px" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/sap-2.svg" alt="sap logo" height="50px" width="50px">
+
+---
+
 
 ### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://www.freeiconspng.com/uploads/linkedin-icon-4.png" width="100" alt="LinkedIn download icon" /></a>
