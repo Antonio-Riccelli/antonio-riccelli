@@ -4,7 +4,7 @@ Made in <img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian
 
 Guitarist, branched into Analyst, branched into Developer - I committed, kept pushing, eventually I merged! 
 
-I'm currently studying **[Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/)** with the Italian startup **[Start2Impact.it](https://www.start2impact.it/)** and its amazing community. 
+Studying **[Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/)** with the Italian startup **[Start2Impact.it](https://www.start2impact.it/)** and its amazing community. 
 
 
 ---
