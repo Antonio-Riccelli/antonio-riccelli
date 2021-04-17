@@ -4,6 +4,8 @@ Made in <img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian
 
 Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="guitar icon" width="40px" height="40px">, branched into Analyst <img src="https://image.flaticon.com/icons/svg/190/190759.svg" alt="analytics logo" width="40px" height="40px">, branched into Developer <img src="https://static.vecteezy.com/system/resources/previews/000/363/176/original/programming-vector-icon.jpg" alt="programming icon" height="40px" width="40px"> - I committed, kept pushing, eventually I merged! 
 
+---
+
 #### Currently focused on:
 - Studying and completing the **[Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/)** learning path with the Italian startup **[Start2Impact.it](https://www.start2impact.it/)** and its amazing community. 
 - Bringing my German language skills up to B2 level and obtaining the related [Goethe Institute](https://www.goethe.de/ins/gb/en/sta/lon/prf/gzb2.cfm) certificate.
@@ -30,7 +32,6 @@ Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="gu
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
