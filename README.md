@@ -8,7 +8,7 @@ Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="gu
 
 #### Currently focused on:
 - Studying and completing the **[Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/)** learning path with the Italian startup **[Start2Impact.it](https://www.start2impact.it/)** and its amazing community. 
-- Bringing my German language skills up to B2 level and obtaining the related [Goethe Institute](https://www.goethe.de/ins/gb/en/sta/lon/prf/gzb2.cfm) certificate.
+- Bringing my German language skills up to B2 level and obtaining the related **[Goethe Institute](https://www.goethe.de/ins/gb/en/sta/lon/prf/gzb2.cfm)** certificate.
 
 
 ---
