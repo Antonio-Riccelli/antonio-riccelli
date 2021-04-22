@@ -2,7 +2,7 @@
 
 Made in <img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">, based in <img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">, citizen of <img src="https://images.vexels.com/media/users/3/157970/isolated/preview/c156b4270aea292b9b335dd463ea17eb-earth-planet-icon-earth-icon-by-vexels.png" alt="earth icon" height="30px" width="30px">
 
-Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="guitar icon" width="40px" height="40px">, branched into Analyst <img src="https://image.flaticon.com/icons/svg/190/190759.svg" alt="analytics logo" width="40px" height="40px">, branched into Developer <img src="https://static.vecteezy.com/system/resources/previews/000/363/176/original/programming-vector-icon.jpg" alt="programming icon" height="40px" width="40px"> - I committed, kept pushing, eventually I merged! 
+Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="guitar icon" width="40px" height="40px">, branched into Analyst <img src="https://image.flaticon.com/icons/svg/190/190759.svg" alt="analytics logo" width="40px" height="40px">, branched into Developer <img src="https://cdn.icon-icons.com/icons2/1859/PNG/512/codinghtml_117947.png" alt="programming icon" height="40px" width="40px"> - I committed, kept pushing, eventually I merged! 
 
 ---
 
