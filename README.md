@@ -6,13 +6,6 @@ Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="gu
 
 ---
 
-#### Currently focused on:
-- Studying and completing the **[Full Stack Development](https://www.start2impact.it/percorsi/sviluppo-web-app/)** learning path with the Italian startup **[Start2Impact.it](https://www.start2impact.it/)** and its amazing community. 
-- Bringing my German language skills up to B2 level and obtaining the related **[Goethe Institute](https://www.goethe.de/ins/gb/en/sta/lon/prf/gzb2.cfm)** certificate.
-
-
----
-
 #### 🧰 Toolbox
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html logo" width="60px" height="60px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="css logo" height="60px" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git logo" height="50px" width="50px"> <img src="https://steadyagency.com/wp-content/uploads/2019/01/qlik-sense-logo-2.png" alt="qliksense logo" height="60px" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/sap-2.svg" alt="sap logo" height="50px" width="50px">
@@ -21,10 +14,6 @@ Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="gu
 
 #### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="60px" alt="LinkedIn icon" height="60px" /></a>
-<a href="https://twitter.com/AntonioRiccell1" title="Twitter profile link"><img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" width="60px" alt="Twitter icon" height="60px" /></a>
-<a href="https://www.facebook.com/antonio.riccelli0/" title="facebook profile link"><img src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="60px" alt="facebook icon" height="60px" /></a>
-<a href="https://www.instagram.com/antonio_riccelli/" title="instagram profile link"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="60px" alt="instagram icon" height="60px" /></a>
-<a href="https://soundcloud.com/antonioriccelli" title="Soundcloud profile link"><img src="https://cdn.worldvectorlogo.com/logos/soundcloud.svg" width="60px" alt="soundcloud  icon" height="60px" /></a>
 <a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="60px" height="60px" alt="Gmail Icon" /></a>
 
 ---
