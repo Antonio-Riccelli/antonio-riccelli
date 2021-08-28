@@ -14,8 +14,8 @@ Guitarist <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="gu
 
 #### ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 <a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn profile link"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="60px" alt="LinkedIn icon" height="60px" /></a>
-<a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="60px" height="60px" alt="Gmail Icon" /></a>
-
+<a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://www.freeiconspng.com/uploads/gmail-icon-0.png" width="60px" height="60px" alt="Gmail Icon" /></a><br>
+<a href="https://www.codewars.com/users/AntonioRiccelli"><img src="https://www.codewars.com/users/AntonioRiccelli/badges/large" title="Codewars rank"><a>
 ---
 
 ## &#x1f4c8; My GitHub Stats
