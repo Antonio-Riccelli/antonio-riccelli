@@ -6,7 +6,7 @@ Guitarist &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/355/35508
 <br>
 <br>
 - I'm a junior Front-end developer based in Guildford, Surrey. 
-- I'm open to new opportunities, includeering volunteering work.
+- I'm open to new opportunities, including volunteering work.
 - I'm currently working on expanding my knowledge of HTML, CSS and JavaScript. I want to further expand my skillset with React.
 
 
