@@ -30,6 +30,8 @@ Guitarist &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/355/35508
 - Use my tech skillset to help a charity
 - Contribute to an open source project
 
+---
+
 #### 🧰 Toolbox
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html logo" width="60px" height="60px"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/730px-CSS.3.svg.png" alt="css logo" height="60px" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="git logo" height="50px" width="50px"> <img src="https://steadyagency.com/wp-content/uploads/2019/01/qlik-sense-logo-2.png" alt="qliksense logo" height="60px" width="60px"> <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel logo" height="50px" width="50px"> <img src="https://cdn.worldvectorlogo.com/logos/sap-2.svg" alt="sap logo" height="50px" width="50px">
