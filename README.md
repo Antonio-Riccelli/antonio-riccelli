@@ -5,25 +5,30 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 Guitarist &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/355/355081.svg" alt="guitar icon" width="40px" height="40px">&nbsp; &nbsp; branched into Analyst &nbsp; &nbsp;<img src="https://image.flaticon.com/icons/svg/190/190759.svg" alt="analytics logo" width="40px" height="40px">&nbsp; &nbsp; branched into Developer &nbsp; &nbsp;<img src="https://cdn.icon-icons.com/icons2/1859/PNG/512/codinghtml_117947.png" alt="programming icon" height="40px" width="40px">&nbsp; &nbsp; I committed, kept pushing, eventually I merged! 
 <br>
 <br>
-- I'm a junior Front-end developer based in Guildford, Surrey. 
-- I'm open to new opportunities, including volunteering work.
-- I'm currently working on expanding my knowledge of HTML, CSS and JavaScript. I want to further expand my skillset with React.
+- Junior Frontend developer based in Guildford, Surrey, England. 
+- Open to new opportunities, including volunteering work.
+- Expanding my knowledge of CSS (& Bootstrap, looking into TailwindCSS) and JavaScript (& React, looking into NodeJS)
 
 
 ---
 
-### Some bio, why not?
+### Some bio, because we ❤ bios
 
-I'm originally from Naples, Italy.
-
-It looked like I was getting into computers and tech from an early age, inspired by people like [John Romero](https://en.wikipedia.org/wiki/John_Romero), [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), [Richard Garriott](https://en.wikipedia.org/wiki/Richard_Garriott), [Ken Silverman](https://en.wikipedia.org/wiki/Ken_Silverman), [American McGee](https://en.wikipedia.org/wiki/American_McGee) and [Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)).
-However, life eventually took a different turn (I was still a passionate gamer, but never went beyond that) and I ended up moving into the humanities field for a long time: literature, movies, art, but most importantly music. I taught myself how to play the guitar and write for different instruments, whilst helping myself with softwares, and even joined a band (recording, playing gigs, you know it...), which turned out to be a beautiful experience. I still have a [Soundcloud page](https://soundcloud.com/antonioriccelli) online, though it's been inactive for a long time.
-
-In June 2015, aged 24, one week after graduating from university, I took a flight to the UK and never looked back. With no prior job experience, I started working as Barista at Costa Coffee, and gradually progressed to better roles. Whilst working as a Supply Chain Analyst, I taught myself how to use Excel and started writing some complex formulas to automate reports and dashboards, and realised I really enjoyed it. Looked further into it and fell in love with programming.
-
-So far, I've been mostly self-taught in everything I've done.
+- I'm originally from Naples, Italy.
+- I first started getting into computers and programming from an early age, inspired by people like [John Romero](https://en.wikipedia.org/wiki/John_Romero), [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), [Richard Garriott](https://en.wikipedia.org/wiki/Richard_Garriott), [Ken Silverman](https://en.wikipedia.org/wiki/Ken_Silverman), [American McGee](https://en.wikipedia.org/wiki/American_McGee) and [Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) - however, life took a different turn and I ended up moving into the humanities field, where I got a Bachelor's degree in Foreign Languages and Literatures. 
+- In June 2015, aged 24, one week after graduating from university, I took a flight to the UK and never looked back (well, I stil visited my family from time to time!) 
+- With no prior work experience, I started working as Barista, and worked my way up to better roles. 
+- Whilst working as a Supply Chain Analyst, I taught myself how to use Excel and started writing some complex formulas to automate reports and dashboards, and realised I really enjoyed it. Expanded on that and fell back in love with programming.
 
 ---
+
+### Current goals
+
+- Improve my skills with CSS and JS frameworks
+- Improve my portfolio with better projects
+- Land my first dev role
+- Use my tech skillset to help a charity
+- Contribute to an open source project
 
 #### 🧰 Toolbox
 
