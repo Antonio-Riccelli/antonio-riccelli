@@ -12,7 +12,7 @@ Guitarist &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/355/35508
 
 ---
 
-### Some bio, because we ❤ bios
+### About
 
 - I'm originally from Naples, Italy.
 - I first started getting into computers and programming from an early age, inspired by people like [John Romero](https://en.wikipedia.org/wiki/John_Romero), [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), [Richard Garriott](https://en.wikipedia.org/wiki/Richard_Garriott), [Ken Silverman](https://en.wikipedia.org/wiki/Ken_Silverman), [American McGee](https://en.wikipedia.org/wiki/American_McGee) and [Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) - however, life took a different turn and I ended up moving into the humanities field, where I got a Bachelor's degree in Foreign Languages and Literatures. 
