@@ -22,15 +22,6 @@ Guitarist &nbsp; &nbsp; <img src="https://image.flaticon.com/icons/svg/355/35508
 
 ---
 
-### Current goals
-
-- Improve my skills with CSS and JS frameworks
-- Improve my portfolio with better projects
-- Land my first dev role
-- Use my tech skillset to help a charity
-- Contribute to an open source project
-
----
 
 #### 🧰 Toolbox
 
