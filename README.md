@@ -40,5 +40,5 @@ Guitarist &nbsp; &nbsp; <img src="https://cdn-icons.flaticon.com/png/512/2341/pr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![snake gif](https://github.com/Antonio-Riccelli/antonio-riccelli/blob/output/github-contribution-grid-snake.svg)
+  ![snake svg](https://github.com/Antonio-Riccelli/antonio-riccelli/blob/output/github-contribution-grid-snake.svg)
 
