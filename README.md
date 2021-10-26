@@ -19,8 +19,7 @@ Guitarist &nbsp; &nbsp; <img src="https://cdn-icons.flaticon.com/png/512/2341/pr
 - I'm originally from Naples, Italy.
 - I first started getting into computers and programming from an early age, inspired by people like [John Romero](https://en.wikipedia.org/wiki/John_Romero), [John Carmack](https://en.wikipedia.org/wiki/John_Carmack), [Richard Garriott](https://en.wikipedia.org/wiki/Richard_Garriott), [Ken Silverman](https://en.wikipedia.org/wiki/Ken_Silverman), [American McGee](https://en.wikipedia.org/wiki/American_McGee) and [Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) - however, life took a different turn and I ended up moving into the humanities field, where I got a Bachelor's degree in Foreign Languages and Literatures. 
 - In June 2015, aged 24, one week after graduating from university, I took a flight to the UK and never looked back (well, I stil visited my family from time to time!) 
-- With no prior work experience, I started working as Barista, and worked my way up to better roles. 
-- Whilst working as a Supply Chain Analyst, I taught myself how to use Excel and started writing some complex formulas to automate reports and dashboards, and realised I really enjoyed it. Expanded on that and fell back in love with programming.
+- With no prior work experience, I started working as Barista, and worked my way up to better roles. Whilst working as a Supply Chain Analyst, I taught myself how to use Excel and started writing some complex formulas to automate reports and dashboards, and realised I really enjoyed it. Expanded on that and fell back in love with programming.
 
 ---
 
