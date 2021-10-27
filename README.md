@@ -4,12 +4,8 @@
 
 Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">&nbsp; &nbsp;based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">&nbsp; &nbsp; citizen of &nbsp; &nbsp;<img src="https://images.vexels.com/media/users/3/157970/isolated/preview/c156b4270aea292b9b335dd463ea17eb-earth-planet-icon-earth-icon-by-vexels.png" alt="earth icon" height="30px" width="30px">
 
-Guitarist &nbsp; &nbsp; <img src="https://cdn-icons.flaticon.com/png/512/2341/premium/2341754.png?token=exp=1634937380~hmac=7c984df06d165f0b9151689c0c6c37b5" alt="guitar icon" width="40px" height="40px">&nbsp; &nbsp; branched into Analyst &nbsp; &nbsp;<img src="https://image.flaticon.com/icons/svg/190/190759.svg" alt="analytics logo" width="40px" height="40px">&nbsp; &nbsp; branched into Developer &nbsp; &nbsp;<img src="https://cdn.icon-icons.com/icons2/1859/PNG/512/codinghtml_117947.png" alt="programming icon" height="40px" width="40px">&nbsp; &nbsp; I committed, kept pushing, eventually I merged! 
-<br>
-<br>
-- Junior Frontend developer based in Guildford, Surrey, England. 
-- Open to new opportunities, including volunteering work.
-- Expanding my knowledge of CSS (& Bootstrap, looking into TailwindCSS) and JavaScript (& React, looking into NodeJS)
+
+Junior Frontend developer based in Guildford, Surrey, England. Expanding my knowledge of CSS (& Bootstrap, looking into TailwindCSS) and JavaScript (& React, looking into NodeJS)
 
 
 ---
