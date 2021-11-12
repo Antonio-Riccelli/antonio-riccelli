@@ -7,7 +7,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 </p>
 
 - Born and grew up in Italy. Relocated to England in 2015. Next step... who knows?
-- Currently Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/)
+- Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/)
 - When not coding:
   - Lifting 🏋🏻‍♂️
   - Playing 🎸
