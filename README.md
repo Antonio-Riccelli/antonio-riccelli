@@ -6,7 +6,6 @@
 Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">&nbsp; &nbsp;based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">&nbsp; &nbsp; citizen of &nbsp; &nbsp;<img src="https://images.vexels.com/media/users/3/157970/isolated/preview/c156b4270aea292b9b335dd463ea17eb-earth-planet-icon-earth-icon-by-vexels.png" alt="earth icon" height="30px" width="30px">
 </p>
 
-- Born and grew up in Italy. Relocated to England in 2015. Next step... who knows?
 - Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/)
 - When not coding:
   - Lifting 🏋🏻‍♂️
@@ -38,25 +37,8 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### 🔥 Tools & Platforms
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
 ### 💻 Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Browsers & OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
-![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-
 
 ---
 
