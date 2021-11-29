@@ -54,6 +54,13 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 <a href="https://www.codewars.com/users/AntonioRiccelli"><img src="https://www.codewars.com/users/AntonioRiccelli/badges/large" title="Codewars rank"><a>
   </p>
 
+---
+	
+## Latest posts on Hashnode & Dev.to
+1. __Leave that comfort zone__
+	- [Hashnode](https://antonioriccelli.hashnode.dev/leave-that-comfort-zone)
+	- [Dev.to](https://dev.to/antonioriccelli/leave-that-comfort-zone-475p)
+2. (work in progress)
 
 ## &#x1f4c8; My GitHub Stats
 
