@@ -20,7 +20,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 - profession = 'Supply Chain Analyst';
 - profession = 'Supply Chain Planner';
 + profession: 'Frontend Developer'
-+ nowLearning: ['TailwindCSS', 'ReactJS']
++ nowLearning: ['PostgreSQL', 'Node-postgres']
 ```
 ---
 ## 👨🏻‍💻 Tech Stack
