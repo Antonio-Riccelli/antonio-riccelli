@@ -19,7 +19,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 - profession = 'Retail Banking Professional';
 - profession = 'Supply Chain Analyst';
 - profession = 'Supply Chain Planner';
-+ profession: 'Frontend Developer', 'Full-Stack Developer in the making'
++ profession: 'Full-Stack Developer'
 + nowLearning: ['PostgreSQL', 'Node-postgres']
 ```
 ---
