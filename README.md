@@ -1,4 +1,4 @@
-<img src="banner.gif">
+<img src="banner(2).gif">
 
 <h1 align="center"> Ciao <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ! </h1>
 
