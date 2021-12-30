@@ -55,6 +55,12 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 	- [Hashnode](https://antonioriccelli.hashnode.dev/leave-that-comfort-zone)
 	- [Dev.to](https://dev.to/antonioriccelli/leave-that-comfort-zone-475p)
 2. (work in progress)
+	
+---
+	
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+	
+---
 
 ## &#x1f4c8; My GitHub Stats
 
