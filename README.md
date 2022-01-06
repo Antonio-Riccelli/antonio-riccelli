@@ -8,14 +8,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 ### Currently bootcamper at [School Of Code](https://www.schoolofcode.co.uk/).
 
-```diff
-- profession = 'Barista';
-- profession = 'Retail Banking Professional';
-- profession = 'Supply Chain Analyst';
-- profession = 'Supply Chain Planner';
-+ profession: 'Full-Stack Developer'
-+ nowLearning: ['TDD', 'React', 'Backend Development']
-```
+
 ---
 ## 👨🏻‍💻 Tech Stack
 ### ⚡ Languages
@@ -57,15 +50,12 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 2. (work in progress)
 	
 ---
-	
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-	
----
+
 
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-  ![snake svg](https://github.com/Antonio-Riccelli/antonio-riccelli/blob/output/github-contribution-grid-snake.svg)
+
 
