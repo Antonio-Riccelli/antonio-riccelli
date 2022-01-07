@@ -57,5 +57,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-
+---
+	
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
