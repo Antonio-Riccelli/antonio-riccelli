@@ -61,5 +61,5 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 --- -->
 	
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+ -->
