@@ -10,7 +10,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 ---
 
-Coming from experience in hospitality, retail banking and four years as a Supply Chain specialist in the pharmaceutical industry, I am now training as a Full Stack Developer. I'm particularly attracted towards Back End development, but I enjoy being able to follow an app's development from start to finish. 
+Coming from experience in hospitality, retail banking and four years as a Supply Chain specialist in the pharmaceutical industry, I am now training as a Full Stack Developer. I'm particularly attracted towards the Back End, but I enjoy being able to follow an app's development from start to finish. 
 
 In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/composer. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
 
