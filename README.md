@@ -6,9 +6,19 @@
 Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">&nbsp; &nbsp;based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">&nbsp; &nbsp; citizen of &nbsp; &nbsp;<img src="https://images.vexels.com/media/users/3/157970/isolated/preview/c156b4270aea292b9b335dd463ea17eb-earth-planet-icon-earth-icon-by-vexels.png" alt="earth icon" height="30px" width="30px">
 </p>
 
-### Currently bootcamper at [School Of Code](https://www.schoolofcode.co.uk/).
-
 `01001100 01001111 01010110 01000101 00100000 01001001 01010011 00100000 01010100 01001000 01000101 00100000 01001100 01000001 01010111 00001010 01001100 01001111 01010110 01000101 00100000 01010101 01001110 01000100 01000101 01010010 00100000 01010111 01001001 01001100 01001100`
+
+---
+
+Coming from experience in hospitality, retail banking and four years as a Supply Chain specialist in the pharmaceutical industry, I am now training as a Full Stack Developer. I'm particularly attracted towards Back End development, but I enjoy being able to follow an app's development from start to finish. 
+
+In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/composer. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
+
+## Currently... 
+- Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/).
+- Learning React, TypeScript, GatsbyJS
+- Working on freeCodeCamp [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) and [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) certifications
+- Working on a Gym tracker app together with [Dan Martin](https://github.com/danmartin98) and [Gabe Magni](https://github.com/gabrielsterponemagni)
 
 
 ---
