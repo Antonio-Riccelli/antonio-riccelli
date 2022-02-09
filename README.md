@@ -55,11 +55,12 @@ In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/c
 
 ---
 	
-## Latest posts on Hashnode & Dev.to
+## Latest posts on Hashnode, Dev.to, LinkedIn
 1. __Leave that comfort zone__
 	- [Hashnode](https://antonioriccelli.hashnode.dev/leave-that-comfort-zone)
 	- [Dev.to](https://dev.to/antonioriccelli/leave-that-comfort-zone-475p)
-2. (work in progress)
+2. __Teamwork and the Power it holds__
+	- [Linkedin](https://www.linkedin.com/posts/antonioriccelli_react-agile-schoolofcode-activity-6897265761266847744-uAPX)
 	
 ---
 
