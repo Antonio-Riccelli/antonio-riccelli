@@ -6,8 +6,6 @@
 Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">&nbsp; &nbsp;based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">&nbsp; &nbsp; citizen of &nbsp; &nbsp;<img src="https://images.vexels.com/media/users/3/157970/isolated/preview/c156b4270aea292b9b335dd463ea17eb-earth-planet-icon-earth-icon-by-vexels.png" alt="earth icon" height="30px" width="30px">
 </p>
 
-`01001100 01001111 01010110 01000101 00100000 01001001 01010011 00100000 01010100 01001000 01000101 00100000 01001100 01000001 01010111 00001010 01001100 01001111 01010110 01000101 00100000 01010101 01001110 01000100 01000101 01010010 00100000 01010111 01001001 01001100 01001100`
-
 ---
 
 Coming from experience in hospitality, retail banking and four years as a Supply Chain specialist in the pharmaceutical industry, I am now training as a Full Stack Developer. I'm particularly attracted towards the Back End, but I enjoy being able to follow an app's development from start to finish. 
