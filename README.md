@@ -16,7 +16,7 @@ In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/c
 - Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/).
 - Learning React, TypeScript, GatsbyJS
 - Working on freeCodeCamp [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) and [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) certifications
-- Working on a Gym tracker app together with [Dan Martin](https://github.com/danmartin98) and [Gabe Magni](https://github.com/gabrielsterponemagni)
+
 
 
 ---
