@@ -15,7 +15,7 @@ In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/c
 ## Currently... 
 - Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/).
 - Learning React, TypeScript, GatsbyJS
-- Working on freeCodeCamp [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) and [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) certifications
+- Working my way through the whole freeCodeCamp curriculum. So far, I have completed the [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/) and [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/](JavaScript Algorithms and Data Structures) certifications. Only one project left on both the [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) and [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) ones.
 
 
 
