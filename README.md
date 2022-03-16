@@ -13,8 +13,8 @@ Coming from experience in hospitality, retail banking and four years as a Supply
 In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/composer. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
 
 ## Currently... 
-- Bootcamper at [School Of Code](https://www.schoolofcode.co.uk/).
-- Learning React, TypeScript, GatsbyJS
+- [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate.
+- As of late, I've been very interested in Backend development, Blockchain, Web 3.0 and DevOps.
 - Working my way through the whole freeCodeCamp curriculum, now focused on the [Data Visualisation](https://www.freecodecamp.org/learn/data-visualization/) certification. 
  Completed so far:
 	- [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
