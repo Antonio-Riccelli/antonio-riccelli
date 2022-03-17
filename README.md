@@ -8,19 +8,18 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 ---
 
-Coming from experience in hospitality, retail banking and four years as a Supply Chain specialist in the pharmaceutical industry, I am now training as a Full Stack Developer. I'm particularly attracted towards the Back End, but I enjoy being able to follow an app's development from start to finish. 
+- [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate. 
+- Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.
+- As of late, I've been very interested in Backend development, Blockchain, Web 3.0 and DevOps.
+- I love teamwork, giving back to the community and contributing to apps and products that I like and use. I try to be active on the [freeCodeCamp Forum](https://forum.freecodecamp.org/), besides being a donor. 
+- Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
+	- [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
+	- [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
+	- [`HTML - <time> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/time)
+- I've just started working on the Italian localisation for the [Axios docs](https://axios-http.com/docs/intro).
+- Besides actively posting on Linkedin, I'm planning on being more active on Hashnode. So far, I've written: [Leave your comfort zone](https://antonioriccelli.hashnode.dev/leave-that-comfort-zone).
 
 In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/composer. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
-
-## Currently... 
-- [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate.
-- As of late, I've been very interested in Backend development, Blockchain, Web 3.0 and DevOps.
-- Working my way through the whole freeCodeCamp curriculum, now focused on the [Data Visualisation](https://www.freecodecamp.org/learn/data-visualization/) certification. 
- Completed so far:
-	- [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-	- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-	- [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
-	- [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
 ---
 <div align="center">
@@ -75,11 +74,6 @@ In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/c
 
 </div>
 	
-## Latest posts on Hashnode, Dev.to, LinkedIn
-1. __Leave that comfort zone__
-	- [Hashnode](https://antonioriccelli.hashnode.dev/leave-that-comfort-zone)
-	- [Dev.to](https://dev.to/antonioriccelli/leave-that-comfort-zone-475p)
-
 ---
 
 
