@@ -10,7 +10,8 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 - [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate. 
 - Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.
-- As of late, I've been very interested in Backend development, Blockchain, Web 3.0 and DevOps.
+- As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.
+- Booked my [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam and studying hard for it. 
 - I love teamwork, giving back to the community and contributing to apps and products that I like and use. I try to be active on the [freeCodeCamp Forum](https://forum.freecodecamp.org/), besides being a donor. 
 - Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
 	- [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
