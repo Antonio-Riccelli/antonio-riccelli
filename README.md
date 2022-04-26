@@ -11,14 +11,13 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 - [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate. 
 - Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.
 - As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.
-- Booked my [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam and studying hard for it. 
-- I love teamwork, giving back to the community and contributing to apps and products that I like and use. I try to be active on the [freeCodeCamp Forum](https://forum.freecodecamp.org/), besides being a donor. 
+- Studying for the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam.
 - Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
 	- [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
 	- [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
 	- [`HTML - <time> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/time)
-- I've just started working on the Italian localisation for the [Axios docs](https://axios-http.com/docs/intro).
-- Besides actively posting on Linkedin, I'm planning on being more active on Hashnode. So far, I've written: [Leave your comfort zone](https://antonioriccelli.hashnode.dev/leave-that-comfort-zone).
+
+- Sometimes I'm active on [Hashnode](https://hashnode.com/@AntonioRiccelli).
 
 In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/composer. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
 
@@ -76,14 +75,15 @@ In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/c
 </div>
 	
 ---
-
+<div align="center">
 
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
----
+
 	
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
- -->
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
