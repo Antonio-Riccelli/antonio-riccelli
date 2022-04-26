@@ -11,7 +11,7 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 - [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate. 
 - Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.
 - As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.
-- Studying for the [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam.
+- Studying for the [AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam.
 - Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
 	- [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
 	- [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
