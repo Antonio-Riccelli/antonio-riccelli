@@ -84,6 +84,6 @@ In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/c
 
 
 	
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6q5csek43i73sy3yqm3oakooi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
 
 </div>
