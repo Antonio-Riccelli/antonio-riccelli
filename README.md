@@ -8,18 +8,18 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 ---
 
-- [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate. 
-- Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.
-- As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.
-- Studying for the [AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam.
-- Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
-	- [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
-	- [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
-	- [`HTML - <time> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/time)
+👨‍🎓 [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate.<br>
+☕ 💷 🏥 Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.<br>
+💻 As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.<br>
+☁ Studying for the [AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/) exam.<br>
+📒 Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
+	 [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
+	 [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
+	 [`HTML - <time> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/time)
+<br>
+✍ Sometimes I'm active on [Hashnode](https://hashnode.com/@AntonioRiccelli).<br>
 
-- Sometimes I'm active on [Hashnode](https://hashnode.com/@AntonioRiccelli).
-
-In my spare time, I'm a voracious reader, avid gym goer, and hobbyist musician/composer. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
+In my spare time, I'm a voracious reader 📚, avid gym goer 🏋️‍♂️, and hobbyist musician/composer 🎸. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
 
 ---
 <div align="center">
