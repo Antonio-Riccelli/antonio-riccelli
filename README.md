@@ -8,16 +8,16 @@ Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg"
 
 ---
 
-👨‍🎓 [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate.<br>
-☕ 💷 🏥 Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.<br>
-💻 As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.<br>
-☁ I've just recently become [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certified, and I'm now studying for the [AWS Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) certification.<br>
+👨‍🎓 [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate.<br><br>
+☕ 💷 🏥 Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.<br><br>
+💻 As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.<br><br>
+☁ I've just recently become [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certified, and I'm now studying for the [AWS Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) certification.<br><br>
 📒 Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
 	 [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
 	 [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
 	 [`HTML - <time> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/time)
-<br>
-✍ Sometimes I'm active on [Hashnode](https://hashnode.com/@AntonioRiccelli).<br>
+<br><br>
+✍ Sometimes I'm active on [Hashnode](https://hashnode.com/@AntonioRiccelli).<br><br>
 
 In my spare time, I'm a voracious reader 📚, avid gym goer 🏋️‍♂️, and hobbyist musician/composer 🎸. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
 
