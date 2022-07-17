@@ -6,22 +6,14 @@
 Made in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/italyc.svg" alt="italian flag" width="30px" height="30px">&nbsp; &nbsp;based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/flag-of-the-united-kingdom-2.svg" alt="united kingdom flag" height="30px" width="30px">&nbsp; &nbsp; citizen of &nbsp; &nbsp;<img src="https://images.vexels.com/media/users/3/157970/isolated/preview/c156b4270aea292b9b335dd463ea17eb-earth-planet-icon-earth-icon-by-vexels.png" alt="earth icon" height="30px" width="30px">
 </p>
 
----
+<div align="center>
 
-👨‍🎓 [School Of Code](https://www.schoolofcode.co.uk/) Full Stack Development bootcamp graduate.<br><br>
-☕ 💷 🏥 Past experiences in Hospitality, Retail Banking and Pharmaceuticals Supply Chain.<br><br>
-💻 As of late, I've been very interested in Backend development, Blockchain, Cloud computing and DevOps.<br><br>
-☁ I've just recently become [AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certified, and I'm now studying for the [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and [AWS Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/) certifications.<br><br>
-📒 Recently I've contributed some entries to the [Codecademy Docs](https://www.codecademy.com/resources/docs), namely:
-	 [`HTML - <q> tag`](https://www.codecademy.com/resources/docs/html/tags/q)
-	 [`HTML - <mark> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/mark)
-	 [`HTML - <time> tag`](https://www.codecademy.com/resources/docs/html/semantic-html/time)
-<br><br>
-✍ Sometimes I'm active on [Hashnode](https://hashnode.com/@AntonioRiccelli).<br><br>
+👨🏻‍💻 Full Stack Developer
 
-In my spare time, I'm a voracious reader 📚, avid gym goer 🏋️‍♂️, and hobbyist musician/composer 🎸. You can listen to some stuff [here](https://soundcloud.com/antonioriccelli).
+👨‍🎓 [School Of Code](https://www.schoolofcode.co.uk/) Bootcamp graduate.<br><br>
 
----
+</div>
+
 <div align="center">
 	
 ## 👨🏻‍💻 Tech Stack
@@ -64,17 +56,16 @@ In my spare time, I'm a voracious reader 📚, avid gym goer 🏋️‍♂️, a
 	
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 
-<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a> <a href="https://twitter.com/AntonioRiccell1" title="Twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  alt="Twitter logo" /></a>
+<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  />
     <a href="https://antonioriccelli.com/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-  <a href="mailto:anton.riccelli@gmail.com" title="Write me an email"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="Gmail Icon" /></a>
       <a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
-      <a href="https://soundcloud.com/antonioriccelli" title="Soundcloud"> <img src="https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Soundcloud logo"> </a><br>
-<a href="https://www.codewars.com/users/AntonioRiccelli"><img src="https://www.codewars.com/users/AntonioRiccelli/badges/large" title="Codewars rank"><a>
+<br>
+<a href="https://www.codewars.com/users/AntonioRiccelli"><img src="https://www.codewars.com/users/AntonioRiccelli/badges/large" title="Codewars rank"></a>
 
 </div>
 	
----
+
 <div align="center">
 
 ## &#x1f4c8; My GitHub Stats
