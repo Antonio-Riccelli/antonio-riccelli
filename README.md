@@ -1,4 +1,4 @@
-<img src="banner (2).gif">
+<img src="banner.gif">
 
 <h1 align="center"> Ciao 👋🏻, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ! </h1>
 
