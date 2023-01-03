@@ -39,7 +39,6 @@
     <a href="https://antonioriccelli.com/">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
       <a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
-      <a href="https://twitter.com/antonioriccell1"><img src="https://img.shields.io/badge/twitter-1AA260?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <br>
 <!-- <a href="https://www.codewars.com/users/AntonioRiccelli"><img src="https://www.codewars.com/users/AntonioRiccelli/badges/large" title="Codewars rank"></a> -->
 
