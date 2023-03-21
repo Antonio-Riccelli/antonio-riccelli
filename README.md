@@ -13,7 +13,7 @@
 	<ol>			
 				<li><a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Solutions Architect Associate</a> (In Progress)</li>
 				<li><a href="https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1">AWS Developer Associate</a> (In Progress)</li>
-				<li><a href="https://www.comptia.org/certifications/it-fundamentals">CompTIA ITF+</a></li>
+				<li><a href="https://www.comptia.org/certifications/it-fundamentals">CompTIA ITF+</a> (In Progress)</li>
 				<li><a href="https://www.comptia.org/landing/aplus-uk/index.html">CompTIA A+</a></li>
 								<li><a href="https://www.freecodecamp.org/learn/data-visualization/">freeCodeCamp Data Visualization Certification</a> (In Progress)</li>
 				<li><a href="https://www.freecodecamp.org/learn/quality-assurance/">freeCodeCamp Quality Assurance Certification</a></li>
