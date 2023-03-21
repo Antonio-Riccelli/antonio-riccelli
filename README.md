@@ -5,26 +5,19 @@
 <p>👨🏻‍💻 Full Stack Developer</p> 
 <!-- <p>🕹 Hobbyist Game Developer at <a href="https://trueselfgames.com">True Self Games</a></p> -->
 <p> 🎓<a href="https://schoolofcode.co.uk">School Of Code</a> bootcamp graduate</p>
-<p> 🎸🎹🎼Musician and composer</p>
+<p> 🎸Guitarist</p>
 </div>
 
 <div>
-	<h2>What I'm working on this year</h2>
-	<ol>
-		<li>Completing the following career paths on <a href="https://codecademy.com">Codecademy</a>:
-			<ul>
-				<li><a href="https://join.codecademy.com/learn/paths/front-end-engineer-career-path/">Front-End Engineer</a></li>
-				<li><a href="https://join.codecademy.com/learn/paths/back-end-engineer-career-path/">Back-End Engineer</a></li>
-				<li><a href="https://join.codecademy.com/learn/paths/full-stack-engineer-career-path/">Full-Stack Engineer</a></li>
-			</ul>
-		</li>
-		<li>Obtaining the following certifications:
-			<ol>
-				<li><a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Solutions Architect Associate</a></li>
-				<li><a href="https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1">AWS Developer Associate</a></li>
-				<li><a href="https://medium.com/bb-tutorials-and-thoughts/all-you-need-to-know-about-docker-certified-associate-dca-exam-21dd2ccadbc0">Docker Certified Associate</a></li>
-			</ol>
-		</li>
+	<h2>Certifications I'm working to obtain in 2023:</h2>
+	<ol>			
+				<li><a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Solutions Architect Associate</a> (In Progress)</li>
+				<li><a href="https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1">AWS Developer Associate</a> (In Progress)</li>
+				<li><a href="https://www.comptia.org/certifications/it-fundamentals">CompTIA ITF+</a></li>
+				<li><a href="https://www.comptia.org/landing/aplus-uk/index.html">CompTIA A+</a></li>
+								<li><a href="https://www.freecodecamp.org/learn/data-visualization/">Data Visualization Certification</a> (In Progress)</li>
+				<li><a href="https://www.freecodecamp.org/learn/quality-assurance/">Quality Assurance Certification</a></li>
+				<li><a href="https://www.freecodecamp.org/learn/information-security/">Information Security Certification</a></li>
 	</ol>
 	</div>
 
