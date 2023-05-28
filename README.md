@@ -10,7 +10,7 @@
 
 <div>
 	<h2>Certifications I'm working to obtain in 2023:</h2>
-	<ol>			
+	<ul>			
 		<li><a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/?ch=sec&sec=rmg&d=1">AWS Solutions Architect Associate</a> - <b>COMPLETED</b></li>
 		<li><a href="https://aws.amazon.com/certification/certified-developer-associate/?ch=sec&sec=rmg&d=1">AWS Developer Associate</a> (In Progress)</li>
 		<li><a href="https://learn.microsoft.com/en-us/certifications/exams/az-900/">Azure AZ-900</a></li>
@@ -19,7 +19,7 @@
 		<li><a href="https://www.freecodecamp.org/learn/data-visualization/">freeCodeCamp Data Visualization Certification</a> (In Progress)</li>
 		<li><a href="https://www.freecodecamp.org/learn/quality-assurance/">freeCodeCamp Quality Assurance Certification</a></li>
 		<li><a href="https://www.freecodecamp.org/learn/information-security/">freeCodeCamp Information Security Certification</a></li>
-	</ol>
+	</ul>
 	</div>
 
 ## 👨🏻‍💻 Tech Stack
