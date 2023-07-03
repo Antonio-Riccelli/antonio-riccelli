@@ -38,5 +38,13 @@
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 
 <a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a><a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
+<!-- <div>
+<div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/antonio-riccelli/antonio-riccelli/blob/main/devcard.svg" width="400" alt="Antonio Riccelli's Dev Card"/></a>
+</div>
+-->
