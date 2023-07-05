@@ -25,15 +25,11 @@
 
 ## 💻 Projects
 
-|             <a href="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe">Fight For Apollo<a/>              |            <a href="https://github.com/Antonio-Riccelli/react-markdown-previewer">Markdown Previewer</a>             |
-| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe/raw/main/demo.gif" width="400" height="300"/> | <img src="https://github.com/Antonio-Riccelli/react-markdown-previewer/raw/main/demo.gif" width="400" height="300"/> |
-|                             A Rocky IV-inspired Tic Tac Toe game made with React and CSS.                              |                                Real time markdown previewer made with React and CSS.                                 |
+|  <a href="https://github.com/Antonio-Riccelli/cloud-resume-challenge-frontend">Cloud Resume Challenge<a/> |  <a href="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe">Fight For Apollo<a/> | <a href="https://github.com/Antonio-Riccelli/react-markdown-previewer">Markdown Previewer</a> |   
+| :-------: |:--------: | :--------: |
+|        <img src="https://i.ibb.co/jV0Z4Fj/demo6.gif" alt="Cloud Resume Challenge"  width="400" height="300"> | <img src="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe/raw/main/demo.gif" width="400" height="300"/> | <img src="https://github.com/Antonio-Riccelli/react-markdown-previewer/raw/main/demo.gif" width="400" height="300"/> |
+| An online resume built using the AWS Serverless stack (S3, DynamoDB, Lambda etc.) | A Rocky IV-inspired Tic Tac Toe game made with React and CSS. |  Real time markdown previewer made with React and CSS. |
 
-|                <a href="https://github.com/Antonio-Riccelli/js-roman-numeral-converter">Roman Numeral Converter and Quote Generator</a>                 |                        <a href="https://github.com/Antonio-Riccelli/fcc-exercise-tracker">Exercise Tracker</a>                        |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
-|          <img src="https://github.com/Antonio-Riccelli/js-roman-numeral-converter/raw/main/public/images/demo4.gif" width="400" height="300"/>          | <img src="https://raw.githubusercontent.com/Antonio-Riccelli/mern-exercise-tracker-frontend/main/demo.gif" width="400" height="300"/> |
-| <p width="50%">A full-stack JavaScript/PostgreSQL app that allows you to convert Roman numerals to moder ones and generates quotes by Latin authors</p> |       Allows you to create a user, input exercises entries and retrieve a log. Made with JavaScript/Node.js, MongoDB/Mongoose.        |
 
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 
