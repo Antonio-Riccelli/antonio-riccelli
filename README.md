@@ -1,14 +1,14 @@
 <img src="banner.gif">
 
-<h1>Ciao 👋🏻, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ!</h1>
+<h1>Ciao, ɪ'ᴍ ᴀɴᴛᴏɴɪᴏ</h1>
 <div>
 <p>👨🏻‍💻 Full Stack Developer</p> 
-<!-- <p>🕹 Hobbyist Game Developer at <a href="https://trueselfgames.com">True Self Games</a></p> -->
 <p> 🎓<a href="https://schoolofcode.co.uk">School Of Code</a> bootcamp graduate</p>
 <p> 🎸Guitarist</p>
+<p> 🔗Let's connect on <a href="https://linkedin.com/in/antonioriccelli">LinkedIn</a> and <a href="https://medium.com/@antonio.riccelli">Medium</a></p>
 </div>
 
-## 👨🏻‍💻 Tech Stack
+<!-- ## 👨🏻‍💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+ -->
 ## 💻 Projects
 
 |  <a href="https://github.com/Antonio-Riccelli/cloud-resume-challenge-frontend">Cloud Resume Challenge<a/> |  <a href="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe">Fight For Apollo<a/> | <a href="https://github.com/Antonio-Riccelli/react-markdown-previewer">Markdown Previewer</a> |   
@@ -33,14 +33,15 @@
 
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 
-<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a><a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
+<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>
+
+<!-- 
+<a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
+-->
 <!-- <div>
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/antonio-riccelli/antonio-riccelli/blob/main/devcard.svg" width="400" alt="Antonio Riccelli's Dev Card"/></a>
-</div>
 -->
