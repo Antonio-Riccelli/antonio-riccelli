@@ -4,8 +4,6 @@
 <div>
 <p>👨🏻‍💻 Full Stack Developer</p> 
 <p> 🎓<a href="https://schoolofcode.co.uk">School Of Code</a> bootcamp graduate</p>
-<p> 🎸Guitarist</p>
-<p> 🔗Let's connect on <a href="https://linkedin.com/in/antonioriccelli">LinkedIn</a> and <a href="https://medium.com/@antonio.riccelli">Medium</a></p>
 </div>
 
 <!-- ## 👨🏻‍💻 Tech Stack
@@ -29,11 +27,6 @@
 | :-------: |:--------: | :--------: |
 |        <img src="https://i.ibb.co/jV0Z4Fj/demo6.gif" alt="Cloud Resume Challenge"  width="400" height="300"> | <img src="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe/raw/main/demo.gif" width="400" height="300"/> | <img src="https://github.com/Antonio-Riccelli/react-markdown-previewer/raw/main/demo.gif" width="400" height="300"/> |
 | An online resume built using the AWS Serverless stack (S3, DynamoDB, Lambda etc.) | A Rocky IV-inspired Tic Tac Toe game made with React and CSS. |  Real time markdown previewer made with React and CSS. |
-
-
-## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
-
-<a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  /></a>
 
 <!-- 
 <a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
