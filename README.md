@@ -1,22 +1,18 @@
-<img src="banner.gif">
+### 👨‍💻 About Me:
+Senior Full Stack Developer with 4+ years of experience building and running software end to end. I mostly work with TypeScript, React, Node.js and AWS, with a focus on cloud infrastructure and system design. At Queen Square Analytics I'm the technical lead for a GxP-regulated medical imaging platform (DICOM/NIfTI) used in an international, multi-site clinical trial, along with the company's MRI analysis pipelines and the computer system validation and quality procedures behind them (GAMP 5, FDA 21 CFR Part 11).
 
-<p>👨🏻‍💻 Full Stack Developer</p> 
-<p> 🎓<a href="https://schoolofcode.co.uk">School Of Code</a> bootcamp graduate</p>
+🛠️ My career path has blended banking, pharmaceutical supply chain and data analysis with hands-on software development. That background shaped how I build software today: reliable systems that are tested, documented and fit for regulated use.
 
-## 💻 Projects
+💻 Programming Languages: TypeScript, JavaScript, Python, C#, PHP, SQL, Bash
 
-|  <a href="https://github.com/Antonio-Riccelli/cloud-resume-challenge-frontend">Cloud Resume Challenge<a/> |  <a href="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe">Fight For Apollo<a/> | <a href="https://github.com/Antonio-Riccelli/react-markdown-previewer">Markdown Previewer</a> |   
-| :-------: |:--------: | :--------: |
-|        <img src="https://i.ibb.co/jV0Z4Fj/demo6.gif" alt="Cloud Resume Challenge"  width="400" height="300"> | <img src="https://github.com/Antonio-Riccelli/fight-for-apollo-ticTacToe/raw/main/demo.gif" width="400" height="300"/> | <img src="https://github.com/Antonio-Riccelli/react-markdown-previewer/raw/main/demo.gif" width="400" height="300"/> |
-| An online resume built using the AWS Serverless stack (S3, DynamoDB, Lambda etc.) | A Rocky IV-inspired Tic Tac Toe game made with React and CSS. |  Real time markdown previewer made with React and CSS. |
+🎨 Frontend: React, Redux, Vite, Tailwind CSS, D3.js, jQuery, OHIF Viewer, Cornerstone3D
 
-<!-- 
-<a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
--->
-<!-- <div>
-<div>
+⚙️ Backend & Data: Node.js, Express, RESTful APIs, OpenAPI/Swagger, DynamoDB, MySQL, WordPress, Orthanc (DICOM)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonio-riccelli)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-riccelli)](https://github.com/anuraghazra/github-readme-stats)
+🧪 Testing & AI: Jest, Vitest, React Testing Library, Playwright, Mocha, Supertest, Claude Code
 
--->
+☁️ Cloud & DevOps: AWS (ECS Fargate, Lambda, Step Functions, Batch, Cognito, S3, SQS, DynamoDB, CloudWatch), Docker, NGINX, CloudFormation, Terraform, GitHub Actions, Git
+
+📊 Methodologies: SCRUM, Agile, TDD, BDD, CI/CD, Infrastructure as Code, Computer System Validation (GAMP 5, FDA 21 CFR Part 11)
+
+🌐 Interests: System Design, Web Performance, AI-Assisted Development, Event-Driven Systems, Cloud Computing
