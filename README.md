@@ -16,3 +16,5 @@ Senior Full Stack Developer with 4+ years of experience building and running sof
 📊 Methodologies: SCRUM, Agile, TDD, BDD, CI/CD, Infrastructure as Code, Computer System Validation (GAMP 5, FDA 21 CFR Part 11)
 
 🌐 Interests: System Design, Web Performance, AI-Assisted Development, Event-Driven Systems, Cloud Computing
+
+🎸 Hobbies: Playing guitar and piano, fitness, reading and travelling
